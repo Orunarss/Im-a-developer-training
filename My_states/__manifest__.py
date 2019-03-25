@@ -13,10 +13,8 @@ This is a super cool module to import the icelandic states.
 
 """,
     "depends" : [
-        "account",
+        "contacts",
         "crm",
-        "base_iban",
-        "base_vat",
     ],
     "data" : [
         'data/res.country.state.csv',
