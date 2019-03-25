@@ -21,4 +21,5 @@ This is a super cool module to import the icelandic states.
     "data" : [
         'data/res.country.state.csv',
     ],
+    'installable': True,
 }
